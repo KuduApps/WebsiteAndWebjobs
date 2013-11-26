@@ -1,0 +1,4 @@
+<?php 
+ Print "PHP running";
+ ?> 
+ 
